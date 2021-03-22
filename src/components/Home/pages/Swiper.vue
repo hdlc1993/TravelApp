@@ -57,8 +57,8 @@ export default {
            setTimeout(()=>{
              this.mykey++;
            },1000);
-
-           //2131f111
+            console.log(123)
+           //2131f11111111xs
         }
     
     // this.swiper.slideTo(3, 1000, false);
