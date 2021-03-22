@@ -1,6 +1,6 @@
 # myapp
 
-> A Vue.js project
+> 旅游宝APP项目文档
 
 ## Build Setup
 
