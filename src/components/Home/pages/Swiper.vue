@@ -58,7 +58,7 @@ export default {
              this.mykey++;
            },1000);
             console.log(123)
-           //2131f11111111xs
+           //修改之后轮播图适应
         }
     // this.swiper.slideTo(3, 1000, false);
   },
