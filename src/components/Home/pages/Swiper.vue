@@ -60,7 +60,7 @@ export default {
             console.log(123)
            //2131f11111111xs
         }
-    console.log(123)
+    console.log(12312321321)
     // this.swiper.slideTo(3, 1000, false);
   },
 };
