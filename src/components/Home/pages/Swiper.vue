@@ -58,7 +58,7 @@ export default {
              this.mykey++;
            },1000);
 
-           //213
+           //2131f
         }
     
     // this.swiper.slideTo(3, 1000, false);
