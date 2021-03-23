@@ -2,11 +2,11 @@
   <div class="ct-swiper">
     <swiper :options="swiperOption" ref="mySwiper" :key="mykey">
       <swiper-slide><img src="static/img/1.png" /></swiper-slide>
-      <swiper-slide style="width:100%"><img src="static/img/2.jpg" /></swiper-slide>
-      <swiper-slide style="width:100%"><img src="static/img/3.jpg" /></swiper-slide>
-      <swiper-slide style="width:100%"><img src="static/img/4.jpg" /></swiper-slide>
-      <swiper-slide style="width:100%"><img src="static/img/5.jpg" /></swiper-slide>
-      <swiper-slide style="width:100%"><img src="static/img/6.jpg" /></swiper-slide>
+      <swiper-slide><img src="static/img/2.jpg" /></swiper-slide>
+      <swiper-slide><img src="static/img/3.jpg" /></swiper-slide>
+      <swiper-slide><img src="static/img/4.jpg" /></swiper-slide>
+      <swiper-slide><img src="static/img/5.jpg" /></swiper-slide>
+      <swiper-slide><img src="static/img/6.jpg" /></swiper-slide>
       <div class="swiper-pagination" slot="pagination"></div>
       <div class="swiper-button-prev" slot="button-prev"></div>
          
@@ -68,7 +68,7 @@ export default {
 <style scoped lang="less">
 .ct-swiper {
   width: 100%;
-  height: 2rem;
+  height: 2.4rem;
   background:#ccc;
 }
 .swiper-slide{
